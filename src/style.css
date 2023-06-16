@@ -135,7 +135,9 @@
     color: hsl(200, 100%, 90%);
     font-size: 0.75rem;
     font-weight: bold;
-    background-image: url(/images/checked.png);
+    font-style: italic #505050;
+    text-decoration: line-through;
+    background-image: url(/dist/images/checked.png);
     width: fit-content;
 
   }
